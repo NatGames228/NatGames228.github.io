@@ -1,2 +1,2 @@
-# apple.github.io
+# NatGames228.github.io
 Первый хостинг
